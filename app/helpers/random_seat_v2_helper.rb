@@ -1,0 +1,2 @@
+module RandomSeatV2Helper
+end
